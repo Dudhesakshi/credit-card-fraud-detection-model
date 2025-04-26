@@ -1,5 +1,7 @@
 # 🚀 Credit Card Fraud Detection Project
 
+"This project showcases my skills in data preprocessing, machine learning model building, evaluation, and deployment readiness. I am open to feedback and further improvements!"
+
 ## 📚 Objective
 Develop a classification model to detect fraudulent credit card transactions efficiently.
 
