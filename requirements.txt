@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+xgboost
+streamlit
+seaborn
+matplotlib
+
+This lists all necessary libraries — easy to install using:
+
+pip install -r requirements.txt
